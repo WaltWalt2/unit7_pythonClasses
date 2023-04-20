@@ -1,0 +1,3 @@
+Prizes = ['A stuffed animal', 'Assorted chocolates', 'Toys', 'A new mansion', 'A new car', 'Limited editon Figurines', 'A new computer', 'Construction paper', '1 year supply of food', '2 dozens of eggs']
+Opening= ("Hello everybody, welcome back to our show. We're at the part of the episode that if the contestant passed all the tasks, he would get to get his mystery prize. Go ahead guest, which prize do you want?")
+print
